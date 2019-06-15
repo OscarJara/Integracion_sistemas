@@ -5,7 +5,7 @@
 
 ### Database
 
-
+![Esquema] diagrama.png
 
 #### Estructura
 
